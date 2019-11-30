@@ -6,4 +6,5 @@ int main(){
 	system('pause');
 	printf("\nBonjour !");
 	printf("\nTest !");
+	printf("666");
 }
